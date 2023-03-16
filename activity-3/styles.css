@@ -1,0 +1,51 @@
+h1 {
+  margin: 8px;
+  padding: 16px;
+  background-color: aquamarine;
+  box-sizing: border-box;
+  font-weight: bolder;
+  
+  
+}
+
+p {margin: 8px;
+  padding: 16px;
+  background-color: aquamarine;
+  font-size: larger;
+  font-weight: bold;
+  
+  
+}
+
+div {
+  background-color: aqua;
+  font-size: larger;
+  font-weight: bold;
+  border: 2px solid #5d6063;
+  border-radius: 5px;
+  text-align: center;
+  width: 150px;
+  box-sizing: border-box;
+  padding: 16px;
+  margin: auto;
+ 
+  
+}
+
+.button {
+  padding: 10px;
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
